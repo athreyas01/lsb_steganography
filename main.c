@@ -1,7 +1,4 @@
 /* 
-Name : Arpith Athreyas H S
-Date : 16/01/24
-Title: Project - Steganography
 Sample Input  : For encoding : source file - beautiful.bmp
                                secret data file - secret.txt
 							   destination file - stego.bmp
